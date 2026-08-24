@@ -1,0 +1,12 @@
+fastapi==0.115.12
+kokoro==0.9.4
+openai==1.75.0
+openwakeword @ git+https://github.com/dscripka/openWakeWord.git@368c03716d1e92591906a84949bc477f3a834455
+python-dotenv==1.1.0
+python-multipart==0.0.20
+requests==2.32.3
+soundfile==0.13.1
+torch==2.13.0
+torchaudio==2.11.0
+transformers==5.14.1
+uvicorn[standard]==0.34.2
